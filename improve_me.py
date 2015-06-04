@@ -1,5 +1,5 @@
 # The header is missing and there are unnecessary imports
-import random, getopt, sys, os
+import random 
 
 # This line will only work in Python 2
 print "This script is not perfect"
